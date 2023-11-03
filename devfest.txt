@@ -1,3 +1,4 @@
+// Indonesia
 apa itu git
 
 contoh platform git (gitlab, github)
@@ -5,3 +6,13 @@ contoh platform git (gitlab, github)
 penggunaan git cli command
 
 contoh penggunaan git (remote add origin, add, commit, push, pull, pull request)
+
+// English
+what is git
+
+example of git platform (gitlab, github)
+
+usage of git cli command
+
+git usage example (remote add origin, add, commit, push, pull, pull request)
+
