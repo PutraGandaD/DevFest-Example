@@ -1,0 +1,7 @@
+apa itu git
+
+contoh platform git (gitlab, github)
+
+penggunaan git cli command
+
+contoh penggunaan git (remote add origin, add, commit, push, pull, pull request)
