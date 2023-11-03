@@ -1,4 +1,4 @@
-// Indonesia
+// Indonesia 
 apa itu git
 
 contoh platform git (gitlab, github)
@@ -15,4 +15,7 @@ example of git platform (gitlab, github)
 usage of git cli command
 
 git usage example (remote add origin, add, commit, push, pull, pull request)
+
+Source : 
+https://www.atlassian.com/git/tutorials/what-is-version-control
 
